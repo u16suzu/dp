@@ -1,7 +1,6 @@
 # ファクトリパタン オブジェクトを生成する。
 
 
-
 class Factory
   def create(type)
     case type
